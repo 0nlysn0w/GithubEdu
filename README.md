@@ -8,3 +8,5 @@ Just want to make sure that you know what you are doing
 This is the Develop branch
 aanpassing
 nog een aanpassing
+
+HAHAHAHAAH MERGE CONFLICTS
